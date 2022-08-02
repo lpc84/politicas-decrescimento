@@ -1,19 +1,19 @@
 # Project information
-site_name: "MkDocs Material Boilerplate"
+site_name: "Politicas Decrescentistas"
 site_description: "MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions."
-site_author: "peaceiris"
-site_url: "https://mkdocs.peaceiris.com/"
+site_author: "Rede para o Decrescimento"
+site_url: "https://decrescimento.pt/"
 
 # Copyright
-copyright: "&copy; 2021 peaceiris"
+copyright: "&copy; 2022 Rede para o Decrescimento"
 
 # Repository
 repo_name: "GitHub"
-repo_url: "https://github.com/peaceiris/mkdocs-material-boilerplate"
-edit_uri: "https://github.com/peaceiris/mkdocs-material-boilerplate/edit/main/docs_sample"
+repo_url: "https://github.com/lpc84/politicas-decrescimento"
+edit_uri: "https://github.com/lpc84/politicas-decrescimento/edit/main/docs"
 
 # Configuration
-docs_dir: "docs_sample"
+docs_dir: "docs"
 theme:
   name: "material"
   language: "en"
@@ -49,7 +49,7 @@ plugins:
   - search:
       separator: '[\s\-\.]+'
       lang:
-        - en
+        - pt
 
 # Customization
 extra_javascript:
@@ -66,22 +66,15 @@ extra:
 
 # Page tree
 nav:
-  - "Home": "index.md"
-  - "Material for MkDocs": "material-for-mkdocs.md"
-  - "Getting started":
-      - "Download boilerplate": "getting-started/download-boilerplate.md"
-      - "pipenv": "getting-started/pipenv.md"
-      - "invoke": "getting-started/invoke.md"
-      - "Docker": "getting-started/docker.md"
-      - "pip": "getting-started/pip.md"
-  - "Hosting and Deployment":
-      - "Combinations": "hosting-and-deployment/combinations.md"
-      - "Netlify": "hosting-and-deployment/netlify.md"
-      - "GitHub Pages": "hosting-and-deployment/github-pages.md"
-      - "GitLab Pages": "hosting-and-deployment/gitlab-pages.md"
-      - "AWS Amplify Console": "hosting-and-deployment/aws-amplify-console.md"
-  - "Extensions":
-      - "MathJax": "extensions/mathjax.md"
-      - "Code Hilite": "extensions/code-hilite.md"
-      - "Footnote": "extensions/footnote.md"
-  - "License": "license.md"
+  - "Início": "index.md"
+  - "Soberania Alimentar": "soberania-alimentar/soberania-alimentar.md"
+  - "Democracia": "democracia/democracia.md"
+  - "Mobilidade":
+    - "Aviação": "mobilidade/aviacao.md"
+    - "Bicicleta": "mobilidade/bicicleta.md"
+    - "Sector Rodoviário": "mobilidade/rodovia.md"
+    - "Sector Maritimo": "mobilidade/maritimo.md"
+    - "Sector Automóvel": "mobilidade/automovel.md"
+    - "Autocarros": "mobilidade/autocarro.md"
+  - "Habitação": "habitacao/habitacao.md"
+  - "Redução de utilização de Matérias Primas": "habitacao/habitacao.md"

@@ -1,8 +1,8 @@
 {
-    "short_name": "MkDocs",
-    "name": "MkDocs Material Boilerplate",
-    "description": "MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions.",
-    "lang": "en-US",
+    "short_name": "Politicas Decrescimento",
+    "name": "Politicas da Rede para o Decrescimento",
+    "description": "Neste site estão medidas que a Rede para o Decrescimento apoia para fazer fase às várias crises que se aproximam",
+    "lang": "pt-PT",
     "icons": [
         {
             "src": "images/graduate-cap.48x48.png",
