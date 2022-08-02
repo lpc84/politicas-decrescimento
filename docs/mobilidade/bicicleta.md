@@ -1,4 +1,4 @@
-# Problemas
+## Problemas
 
 -  A coexistência de mobilidade suave e pesada no mesmo espaço pode levar a problemas de segurança
 -  Falta de estacionamento
@@ -6,5 +6,5 @@
 -  População idosa com receio de andar de bicicleta
     - Problemas de saúde
 
-# Zonas de Estacionamento
+## Zonas de Estacionamento
 
