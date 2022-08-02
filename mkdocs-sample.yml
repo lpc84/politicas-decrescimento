@@ -1,6 +1,6 @@
 # Project information
 site_name: "Politicas Decrescentistas"
-site_description: "MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions."
+site_description: "Espaço onde se definem as politicas necessárias a reduzir os efeitos da crise climática. Estas medidas requerem uma mudança de paradigma para o decrescimento."
 site_author: "Rede para o Decrescimento"
 site_url: "https://decrescimento.pt/"
 
@@ -16,23 +16,23 @@ edit_uri: "https://github.com/lpc84/politicas-decrescimento/edit/main/docs"
 docs_dir: "docs"
 theme:
   name: "material"
-  language: "en"
+  language: "pt"
   shortcuts:
     help: 191 # ?
     next: 78 # n
     previous: 80 # p
     search: 83 # s
   palette:
-    primary: "blue"
-    accent: "blue"
+    primary: "black"
+    accent: "black"
   features:
     - tabs
   #font:
   #text: 'Ubuntu'
   #code: 'Ubuntu Mono'
   #icon:
-  #logo: 'images/logo.svg'
-  #favicon: 'assets/images/favicon.ico'
+  logo: 'images/logo.png'
+  favicon: 'images/favicon.ico'
 
 # Extensions
 markdown_extensions:
