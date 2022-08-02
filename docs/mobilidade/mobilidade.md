@@ -1,12 +1,10 @@
 
 
-# Comboios
+## Comboios
 
-- Privilegiar eficiência à velocidade
 
-	- Não aposta no TGV
 
-# Marítimo
+## Marítimo
 
 - Parcerias
 
@@ -15,7 +13,7 @@
 
 
 
-# Ler
+## Ler
 
 - Ivan Ilich
 
